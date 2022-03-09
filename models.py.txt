@@ -1,0 +1,3 @@
+class JobModel(models.Model):
+         jobname=models.CF()
+         exp=models.CF()
